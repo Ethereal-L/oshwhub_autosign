@@ -4,7 +4,7 @@
 
 <img src="https://github.com/seishinkouki/oshwhub_autosign/actions/workflows/python-app.yml/badge.svg?branch=main">
 
-# 建议还是部署在自己本地的树莓派或者装了python的op路由器之类的上面哈, action不太稳的样子
+# 建议还是部署在自己本地的树莓派或者装了python的op路由器之类的上面哈, action不太稳的样子 
 
 # 以下是action食用方式
 1. 右上角fork本仓库
@@ -15,5 +15,5 @@
 ```
 ![图片](https://github.com/seishinkouki/oshwhub_autosign/blob/main/Snipaste_2021-04-24_13-44-31.png)
 4. 点击右上角自己仓库的Star可以触发运行，也可以在action中手动run, 同时会定时在每天的0:10, 1:10, 2:10自动运行, 三次应该能够百分百成功了, 如果想改为其它时间自行修改corn
-5. **必须** - 请随便找个文件(例如`README.md`)，加个空格提交一下，否则可能会出现无法定时执行的问题
+5. **必须** - 请随便找个文件(例如`README.md`)，加个空格提交一下，否则可能会出现无法定时执行的问题 
   
